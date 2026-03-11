@@ -1,0 +1,11 @@
+{
+  "mode": "premarket",
+  "symbols": [
+    "NVDA",
+    "SOXX",
+    "AVGO",
+    "MSFT",
+    "GOOGL",
+    "META"
+  ]
+}

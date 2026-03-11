@@ -1,0 +1,8 @@
+{
+  "engine": "AI Quant Trading System",
+  "version": "3.1.0-first-runnable",
+  "stage": "development",
+  "baseline": "v2.5.4-upgraded-to-v3.1",
+  "timestamp_utc": "2026-03-11T16:12:00Z",
+  "description": "Runnable v3.1 package generated from v2.5.4 core logic under the unified engineering architecture in 完整量化交易工程系统设计202603111."
+}
